@@ -8,7 +8,7 @@ Supports the following alogrithms:
 - plaintext
 - HS256
 - HS384
-- HS 512
+- HS512
 
 Will add more in the future.
 
